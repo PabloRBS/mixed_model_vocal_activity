@@ -26,14 +26,13 @@ datahi3 <- datahi3[,-8]
 **The data:**
 The data set consists of quantity of vocalizations of a bird species (*Pharomachrus mocinno*) detected by day. This was complemented with weather information, as is shown in this extract:    
 
-```{r include=FALSE}
-head <- head(datahi3)
+```{r echo = FALSE}
+head(datahi3)
 ```
 
 ```{r echo = FALSE}
 
 knitr::kable(head, caption = "Data structure")
-
 
 ```
 
