@@ -139,4 +139,4 @@ plot(residuals_mod,rank=T)
 
 ```
 
-
+![alt text](https://github.com/PabloRBS/mixed_model_vocal_activity/blob/main/dharma_diagnostics.png?raw=true)
